@@ -1,0 +1,26 @@
+[
+    {
+        "id_golongan": "8",
+        "nm_golongan": "a2",
+        "pend_akhir": "SMA",
+        "gapok": "2000000"
+    },
+    {
+        "id_golongan": "09",
+        "nm_golongan": "Golongan C",
+        "pend_akhir": "SMA",
+        "gapok": "1000000"
+    },
+    {
+        "id_golongan": "009",
+        "nm_golongan": "Golongan C",
+        "pend_akhir": "SMA",
+        "gapok": "1000000"
+    },
+    {
+        "id_golongan": "009",
+        "nm_golongan": "Golongan C",
+        "pend_akhir": "SMA",
+        "gapok": "1000000"
+    }
+]
